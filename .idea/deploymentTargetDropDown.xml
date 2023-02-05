@@ -7,11 +7,11 @@
         <deviceKey>
           <Key>
             <type value="VIRTUAL_DEVICE_PATH" />
-            <value value="C:\Users\EsraaArify\.android\avd\Pepper_1.9_API_33.avd" />
+            <value value="C:\Users\EsraaArify\.android\avd\Resizable_Experimental_API_33_2.avd" />
           </Key>
         </deviceKey>
       </Target>
     </targetSelectedWithDropDown>
-    <timeTargetWasSelectedWithDropDown value="2023-01-24T13:02:51.414028100Z" />
+    <timeTargetWasSelectedWithDropDown value="2023-02-05T10:24:54.689487200Z" />
   </component>
 </project>
